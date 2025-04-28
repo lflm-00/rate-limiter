@@ -47,11 +47,13 @@ src/main/
 └── scripts/                  # Lua scripts
 ```
 🧠 Core Components
-Component	Description
+```
+Component	           Description
 @RateLimited	Annotation for rate-limited methods
 RateLimiterAspect	AOP aspect handling rate limit enforcement
 RateLimiterService	Service layer for Redis interactions
 token_bucket.lua	Lua script for atomic Redis operations
+```
 
 🌐 Roadmap
 Custom rate limit keys (API keys, user sessions)
