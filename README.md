@@ -1,7 +1,7 @@
 # 🚀 Rate Limiting Microservice with Spring Boot, Redis, Lua & AOP
 
 [![Build Status](https://img.shields.io/badge/Spring_Boot-3.2.0-green)](https://spring.io/projects/spring-boot)
-[![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-11%2B-blue)](https://www.oracle.com/java/)
 [![Redis](https://img.shields.io/badge/Redis-7.0-red)](https://redis.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
@@ -15,7 +15,7 @@ A production-ready rate limiting solution implementing the **Token Bucket algori
 - 🧪 **Tested** with Spring Boot 3.x
 
 ## 📦 Tech Stack
-- **Core**: Java 17, Spring Boot 3
+- **Core**: Java 11+, Spring Boot 3
 - **Data**: Redis 7.x
 - **Scripting**: Lua
 - **AOP**: Spring AspectJ
