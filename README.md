@@ -61,6 +61,6 @@ Dynamic configuration reload
 Rate limit tiers (gold/silver/bronze users)
 
 
-## Funcionality
+## Functionality
 - Version 1.0.0
   - first commit
