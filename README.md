@@ -56,12 +56,13 @@ token_bucket.lua	Lua script for atomic Redis operations
 ```
 
 🌐 Roadmap
+```
 Custom rate limit keys (API keys, user sessions)
 Distributed tracing integration
 Prometheus metrics exporter
 Dynamic configuration reload
 Rate limit tiers (gold/silver/bronze users)
-
+```
 
 ## Functionality
 - Version 1.0.0
